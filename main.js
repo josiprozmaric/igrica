@@ -70,7 +70,7 @@ box.innerHTML = bacanje1
 if(box.innerHTML = bacanje1){
 box.style.background = 'red'
 
-box6.style.background = 'yellow'
+box6.style.background = 'red'
 }
 
 
@@ -93,18 +93,18 @@ if(box2.innerHTML = bacanje2){
 
 	box2.style.background = 'orange'
 	box3.style.background = 'green'
-	box6.style.background = 'tomato'
+	box6.style.background = 'red'
 
 }
 if(box.innerHTML > box2.innerHTML){
 
 box5.innerText = 'igrac 1 je pobijedio'
-box5.style.background = 'gray'
+box5.style.background = 'red'
 }
 if(box.innerHTML < box2.innerHTML){
 
 box5.innerText = 'igrac 2 je pobijedio'
-box5.style.background = 'yellow'
+box5.style.background = 'orange'
 }
 
 if(box.innerHTML == box2.innerHTML){
