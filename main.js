@@ -93,7 +93,7 @@ if(box2.innerHTML = bacanje2){
 
 	box2.style.background = 'orange'
 	box3.style.background = 'green'
-	box6.style.background = 'red'
+	box6.style.background = 'orange'
 
 }
 if(box.innerHTML > box2.innerHTML){
